@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Sleep fixed time, send fuel gauge data to AIO
+about: Projekt 1 ELEMIK21
 title: "[Feature]"
 labels: enhancement
 assignees: ''
