@@ -25,7 +25,7 @@ A:	Försök att mäta antalet blink i laddningskretsen med external wake up, ski
 Här är en lista på de “Issues” du ska skapa i ditt repo på Github:
 Varje Issue får ett nummer som du använder i VS code när du commit:ar)
 
- [] [Feature] Skjuta ner s.k. periferials och wifi innan sleep enhancement
+ [ ] [Feature] Skjuta ner s.k. periferials och wifi innan sleep enhancement
 
 [Feature] Konstant uppdatering, trots knapptryck enhancement
 
