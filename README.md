@@ -26,17 +26,29 @@ Här är en lista på de “Issues” du ska skapa i ditt repo på Github:
 Varje Issue får ett nummer som du använder i VS code när du commit:ar)
 
 [Feature] Skjuta ner s.k. periferials och wifi innan sleep enhancement
+
 [Feature] Konstant uppdatering, trots knapptryck enhancement
+
 [Feature] OLED flera menyer enhancement
+
 Löda INA219
+
 [Feature] Skicka meddelande om batteriet understiger viss nivå enhancement
+
 [Feature] Variabel sleep time map batteriprocent enhancement
+
 [Feature] INA219 laddningsmätare enhancement
+
 [Feature] Avbryt WiFi om du inte får kontakt enhancement
+
 Löda OLED
+
 [Feature] Stäng av laddning om temperaturen är för hög enhancement
+
 [Feature] OLED enhancement
+
 [Feature] Sleep fixed time, send fuel gauge data to AIO. enhancement
+
 Löda laddare
 	
 	
